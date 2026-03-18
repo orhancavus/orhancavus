@@ -58,7 +58,3 @@ Nowadays, LLMs writes for us..
 -----
 
 > "Writing code used to be like playing a game; now, having it written is the same.."
-
------
-
-Would you like me to refine the wording of your project descriptions or help you write a short "About Me" bio based on this?
