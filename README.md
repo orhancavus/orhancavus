@@ -10,9 +10,13 @@ I strive to find simple solutions to complex problems.
 
 ### 🚀 What am I doing right now?
 
-* **WordsLift:** Working on a mobile app and Chrome extension ecosystem that simplifies the word-learning process. [mymindsets.org](http://mymindsets.org)
+* **WordsLift:** Working on a mobile app and Chrome extension ecosystem that simplifies the word-learning process.  
+-[mymindsets.org](http://mymindsets.org)
 * **AI Integrations:** Developing data processing tools using local LLMs (Ollama) and the Google Gemini API.
 * **Enterprise Solutions:** Leading LLM-based instruction processing projects for corporate banking structures.
+* **java-hotspots-cli:** A pip-installable CLI tool for analyzing Java hotspots using Git churn and cyclomatic complexity.  
+-[https://github.com/orhancavus/java_hotspots_cli](https://github.com/orhancavus/java_hotspots_cli).  
+-[https://pypi.org/project/java-hotspots-cli/0.1.0/](https://pypi.org/project/java-hotspots-cli/0.1.0/).  
 
 -----
 
