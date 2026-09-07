@@ -32,7 +32,6 @@ Nowadays, LLMs writes for us..
 * **[java-hotspots-cli](https://github.com/orhancavus/java_hotspots_cli):** A pip-installable CLI tool for analyzing Java hotspots using Git churn and cyclomatic complexity.  
 * **pypi**: [https://pypi.org/project/java-hotspots-cli/0.1.0/](https://pypi.org/project/java-hotspots-cli/0.1.0/).  
 * **[favorites\_db\_app](https://github.com/orhancavus/favorites_db_app):** A modern bookmark manager with Ollama and Gemini support, capable of intelligent category generation.
-* **[transcribe\_video](https://github.com/orhancavus/transcribe_video):** A Python tool that quickly extracts subtitles from YouTube videos using OpenAI Whisper.
 * **[markdown\_renderer\_lite](https://github.com/orhancavus/markdown_renderer_lite):** A lightweight converter that quickly transforms Markdown files into HTML.
 
 -----
