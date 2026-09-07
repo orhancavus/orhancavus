@@ -10,8 +10,8 @@ I strive to find simple solutions to complex problems.
 
 ### 🚀 What am I doing right now?
 
-* **WordsLift:** Working on a mobile app and Chrome extension ecosystem that simplifies the word-learning process.  
--[mymindsets.org](http://mymindsets.org)
+* **Applications Portal**  [Applications Portal](https://appsportal-40bdd.firebaseapp.com/)
+* **WordsLift:** Working on a mobile app and Chrome extension ecosystem that simplifies the word-learning process. [mymindsets.org](http://mymindsets.org)
 * **AI Integrations:** Developing data processing tools using local LLMs (Ollama) and the Google Gemini API.
 * **Enterprise Solutions:** Leading LLM-based instruction processing projects for corporate banking structures.
 
