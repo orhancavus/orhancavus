@@ -1,36 +1,24 @@
 # Hello, I'm Orhan\! 👋
 
-### 👨‍💻 Software Developer | AI & LLM Enthusiast
+### 👨‍💻 Software & Solutions Developer | AI & LLM Enthusiast
 
-I aim to find solutions that simplify both corporate and daily life.
-I design and develop projects focused on modern artificial intelligence solutions.
-I strive to find simple solutions to complex problems.
+I aim to find solutions that simplify both corporate and daily life.  
+I design and develop projects and solutions using modern artificial intelligence technologies.  
+I strive to find simple solutions to various problems.  
 
 -----
 
 ### 🚀 What am I doing right now?
 
-* **WordsLift:** Working on a mobile app and Chrome extension ecosystem that simplifies the word-learning process.  
--[mymindsets.org](http://mymindsets.org)
-* **AI Integrations:** Developing data processing tools using local LLMs (Ollama) and the Google Gemini API.
-* **Enterprise Solutions:** Leading LLM-based instruction processing projects for corporate banking structures.
-
------
-
-### 🛠 Tech Stack \*
-
-| Field | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, PL/SQL |
-
-Nowadays, LLMs writes for us..
+* **Learning AI**: I try to keep up with mind-blowing new technological developments in AI.
+* **WordsLift:** Working on an app and Chrome extension ecosystem that simplifies the word-learning process.
+* **AI Integrations:** Developing data and dvision processing tools using local LLMs (Ollama) and cloud LLMs.
 
 -----
 
 ### 🌟 Featured Projects
 
-* **[java-hotspots-cli](https://github.com/orhancavus/java_hotspots_cli):** A pip-installable CLI tool for analyzing Java hotspots using Git churn and cyclomatic complexity.  
-* **pypi**: [https://pypi.org/project/java-hotspots-cli/0.1.0/](https://pypi.org/project/java-hotspots-cli/0.1.0/).  
+* **[java-hotspots-cli](https://github.com/orhancavus/java_hotspots_cli):** A pip-installable CLI tool for analyzing Java hotspots using Git churn and cyclomatic complexity.   
 * **[favorites\_db\_app](https://github.com/orhancavus/favorites_db_app):** A modern bookmark manager with Ollama and Gemini support, capable of intelligent category generation.
 * **[transcribe\_video](https://github.com/orhancavus/transcribe_video):** A Python tool that quickly extracts subtitles from YouTube videos using OpenAI Whisper.
 * **[markdown\_renderer\_lite](https://github.com/orhancavus/markdown_renderer_lite):** A lightweight converter that quickly transforms Markdown files into HTML.
