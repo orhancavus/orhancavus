@@ -15,6 +15,8 @@ Karmaşık problemlere basit çözmler bulmayı amaçlıoyorum.
 
 
 ### 🌟 Öne Çıkan Projelerim
+
+* **[photon-deck](https://github.com/orhancavus/photon-deck):** macOS, Raspberry Pi, Linux ve Windows için tasarlanmış modern, çok platformlu bir Kamera Stüdyosu Web Uygulaması. 
 * **[java-hotspots-cli](https://github.com/orhancavus/java_hotspots_cli):** Git değişimleri ve döngüsel karmaşıklık kullanarak Java'daki kritik noktaları analiz etmek için pip ile yüklenebilen bir komut satırı aracı.
 * **[favorites_db_app](https://github.com/orhancavus/favorites_db_app):** Ollama ve Gemini destekli, akıllı kategori oluşturabilen modern bir yer imi yöneticisi.
 * **[transcribe_video](https://github.com/orhancavus/transcribe_video):** OpenAI Whisper kullanarak YouTube videolarından hızlıca altyazı çıkaran Python aracı.

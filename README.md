@@ -18,6 +18,7 @@ I strive to find simple solutions to various problems.
 
 ### 🌟 Featured Projects
 
+* **[photon-deck](https://github.com/orhancavus/photon-deck):** A modern, multi-platform Camera Studio Web Application built for macOS, Raspberry Pi, Linux, and Windows. It features a hardware-inspired dark-room UI, multi-engine live video streaming, professional viewfinder tools, real-time RGB histogram analysis, and dual-storage media management.  
 * **[java-hotspots-cli](https://github.com/orhancavus/java_hotspots_cli):** A pip-installable CLI tool for analyzing Java hotspots using Git churn and cyclomatic complexity.   
 * **[favorites\_db\_app](https://github.com/orhancavus/favorites_db_app):** A modern bookmark manager with Ollama and Gemini support, capable of intelligent category generation.
 * **[markdown\_renderer\_lite](https://github.com/orhancavus/markdown_renderer_lite):** A lightweight converter that quickly transforms Markdown files into HTML.
