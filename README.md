@@ -11,17 +11,17 @@ I strive to find simple solutions to various problems.
 ### 🚀 What am I doing right now?
 
 * **Learning AI**: I try to keep up with mind-blowing new technological developments in AI.
-* **WordsLift:** Working on an app and Chrome extension ecosystem that simplifies the word-learning process.
 * **AI Integrations:** Developing data and dvision processing tools using local LLMs (Ollama) and cloud LLMs.
 
 -----
 
 ### 🌟 Featured Projects
 
-* **[photon-deck](https://github.com/orhancavus/photon-deck):** A modern, multi-platform Camera Studio Web Application built for macOS, Raspberry Pi, Linux, and Windows. It features a hardware-inspired dark-room UI, multi-engine live video streaming, professional viewfinder tools, real-time RGB histogram analysis, and dual-storage media management.  
-* **[java-hotspots-cli](https://github.com/orhancavus/java_hotspots_cli):** A pip-installable CLI tool for analyzing Java hotspots using Git churn and cyclomatic complexity.   
-* **[favorites\_db\_app](https://github.com/orhancavus/favorites_db_app):** A modern bookmark manager with Ollama and Gemini support, capable of intelligent category generation.
-* **[markdown\_renderer\_lite](https://github.com/orhancavus/markdown_renderer_lite):** A lightweight converter that quickly transforms Markdown files into HTML.
+* **[Photon Deck](https://github.com/orhancavus/photon-deck)**: A modern, multi-platform Camera Studio Web Application built for macOS, Raspberry Pi, Linux, and Windows. It features a hardware-inspired dark-room UI, multi-engine live video streaming, professional viewfinder tools, real-time RGB histogram analysis, and dual-storage media management.  
+* **[Fret Deck](https://github.com/orhancavus/fretdeck-releases)**: FretDeck Modern Guitar Teaching Application
+* **[Stop Detect](https://stopdetect.mymindsets.org/)**: A browser-only GPS stop detector
+* **[File Info](https://github.com/orhancavus/file-info-releases)**: Lightweight native desktop file inspection utility for macOS and Linux
+* **[Mean Speed](https://meanspeed.mymindsets.org/)**: Mean Speed is a installable mobile PWA that measures elapsed time, approximate distance, and average speed from the phone's GPS.
 
 -----
 
