@@ -25,22 +25,9 @@ I strive to find simple solutions to various problems.
 
 -----
 
-### 📈 GitHub Stats
-
-![Orhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=orhancavus&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhancavus&layout=compact&theme=radical)
-
------
-
 ### 📫 Contact Me
 
 * **Web:** [mymindsets.org](http://mymindsets.org)
-
-* **Web:** [AppPortal](https://appsportal-40bdd.web.app/)
-
-* **Web:** [NewAppPortal](https://agvwebintro.web.app/)
-
-* **Web:** [Wordslift](https://wordslift-8d260.firebaseapp.com/)
 
 * **LinkedIn:** [[https://www.linkedin.com/in/orhan-cavus](https://www.linkedin.com/in/orhan-cavus/)]
 
